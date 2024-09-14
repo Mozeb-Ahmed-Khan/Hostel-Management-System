@@ -1,0 +1,653 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Haseeb Hostel</name>
+    </assembly>
+    <members>
+        <member name="F:WindowsFormsApp1.Add_New_Room.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Add_New_Room.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Add_New_Room.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Add_New_Student.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Add_New_Student.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Add_New_Student.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Add_Staff.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Add_Staff.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Add_Staff.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.add_datacs.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.add_datacs.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.add_datacs.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Admin_A.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Admin_A.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Admin_A.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Admin_login.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Admin_login.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Admin_login.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Attendance_Form.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Attendance_Form.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Attendance_Form.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Delete_data.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Delete_data.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Delete_data.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Gym_.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Gym_.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Gym_.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Hostel_Expenses.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Hostel_Expenses.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Hostel_Expenses.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.login.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.login.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.login.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Manage_Rooms_Option.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Manage_Rooms_Option.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Manage_Rooms_Option.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Staff_I.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Staff_I.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Staff_I.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Staff_login.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Staff_login.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Staff_login.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.staff_signup.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.staff_signup.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.staff_signup.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Student_Staff_Accountscs.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Student_Staff_Accountscs.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Student_Staff_Accountscs.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Student_A.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Student_A.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Student_A.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Student_Ateendance.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Student_Ateendance.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Student_Ateendance.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.student_login.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.student_login.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.student_login.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.student_signup.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.student_signup.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.student_signup.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.TESTER.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.TESTER.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.TESTER.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Update_Room.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Update_Room.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Update_Room.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Update_Staff_Data.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Update_Staff_Data.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Update_Staff_Data.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Update_Student_Data.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Update_Student_Data.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Update_Student_Data.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.update_data.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.update_data.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.update_data.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp1.Visitorssss.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Visitorssss.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Visitorssss.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:WindowsFormsApp1.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.admin_">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.afdmin">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.close">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.close__1_">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.congrats">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.congratulation">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.download">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.education_icon_male_student_person_profile_avatar_vector_25957601">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.home">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.home__2_">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.home__3_">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.hostel">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.icons8_administrator_male_skin_type_7_48">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.icons8_rooms_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.icons8_rooms_64___Copy">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.icons8_student_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.icons8_teacher_64">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.management">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.padlock">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.plus">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.previous">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.profile">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.roo">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.roooooooooooo">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.search">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.search1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.sign_up">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.staff">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.student">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.student_login">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.teacher">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.teacher_login">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.updated">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,235 @@
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_A.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_login.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff_login.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student_login.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CircularProgressBar.dll
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WinFormAnimation.dll
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CircularProgressBar.xml
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_New_Room.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Manage_Rooms_Option.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Room.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_New_Student.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Staff.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_Staff_Accountscs.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Staff_Data.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Student_Data.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hostel_Expenses.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Visitorssss.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gym_.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Form.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_A.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff_I.resources
+C:\Users\hasee\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_Ateendance.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CircularProgressBar.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WinFormAnimation.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CircularProgressBar.xml
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_New_Room.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_New_Student.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Staff.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_A.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_login.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Form.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gym_.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hostel_Expenses.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Manage_Rooms_Option.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff_I.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff_login.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_Staff_Accountscs.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_A.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_Ateendance.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student_login.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Room.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Staff_Data.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Student_Data.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Visitorssss.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.update_data.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.add_datacs.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_data.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student_signup.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.staff_signup.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TESTER.resources
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.exe.config
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.exe.manifest
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.application
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.exe
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.pdb
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.exe.manifest
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.application
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.exe
+C:\Users\hasee\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.pdb
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.exe.config
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.exe.manifest
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.application
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.exe
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.pdb
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CircularProgressBar.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WinFormAnimation.dll
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CircularProgressBar.xml
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_New_Room.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_New_Student.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Staff.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.add_datacs.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_A.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_login.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Form.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_data.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gym_.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hostel_Expenses.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Manage_Rooms_Option.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff_I.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff_login.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.staff_signup.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_Staff_Accountscs.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_A.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_Ateendance.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student_login.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student_signup.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TESTER.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Room.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Staff_Data.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Student_Data.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.update_data.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Visitorssss.resources
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.exe.manifest
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.application
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.exe
+C:\Users\hasee\OneDrive\Pictures\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.pdb
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.exe.config
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.exe.manifest
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.application
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.xml
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.exe
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Haseeb Hostel.pdb
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CircularProgressBar.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WinFormAnimation.dll
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CircularProgressBar.xml
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_New_Room.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_New_Student.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add_Staff.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.add_datacs.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_A.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_login.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Attendance_Form.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_data.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Gym_.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hostel_Expenses.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Manage_Rooms_Option.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff_I.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Staff_login.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.staff_signup.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_Staff_Accountscs.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_A.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Student_Ateendance.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student_login.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.student_signup.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TESTER.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Room.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Staff_Data.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Student_Data.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.update_data.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Visitorssss.resources
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.TrustInfo.xml
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.exe.manifest
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.application
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.exe
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Haseeb Hostel.pdb
+C:\Users\hasee\OneDrive\Pictures\HMS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
